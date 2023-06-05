@@ -49,8 +49,7 @@ public class SayiOyunu {
                 }
             } else if (randomSayi < kullaniciSayi) {
                 System.out.println("Bilemediniz, tahmin için < " + counter + " > hakkınız kaldı! Daha <KUCUK> bir sayı giriniz:");
-            } else if (counter == 0) {
-            } else {
+            }  else {
                 System.out.println("Bilemediniz, tahmin için < " + counter + " > hakkınız kaldı! Daha <BUYUK> bir sayı giriniz:");
             }
             counter--;

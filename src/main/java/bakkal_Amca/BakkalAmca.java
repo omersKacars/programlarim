@@ -101,7 +101,7 @@ public class BakkalAmca {
             }
         }
 
-        String[] altGunler = new String[counter];                   //ortalamanin altindaki elemanlar icin bi arrat list olusturduk ve counter'i eleman sayisi yaptik
+        String[] altGunler = new String[counter]; //ortalamanin altindaki elemanlar icin bi arrat list olusturduk ve counter'i eleman sayisi yaptik
 
 
         int k = 0;      //condition her dondugunde sayacak boylelikle her dondugunde gunluk kazanc arrayinin bie elemanini incelemis olacagiz

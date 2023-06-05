@@ -23,3 +23,5 @@ public class BakkalAmca {
          * 			 ortalama kazançtan aşağıysa o günleri return yap.
          * */
 
+
+hangi bakkal icin islem yapilacagini sec bakkal zincirlerine hosgeldiniz
